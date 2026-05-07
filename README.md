@@ -1,0 +1,2 @@
+# Kanaryatoken
+Created by VoltPlayground
